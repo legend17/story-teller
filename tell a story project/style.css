@@ -1,0 +1,49 @@
+
+body{
+	background: url(images/6.jpg) no-repeat center center fixed;
+	background-size: cover;
+	color: black;
+}
+
+#content{
+	text-align: center;
+	padding-top: 15%;
+}
+
+h1{
+	font-weight: bold;
+	text-shadow: 0px 0px 10px #ffffff;
+	color: #000000;
+	font-size: 50px;
+}
+
+h3{
+	color: #ffffff;
+}
+
+hr{
+	width: 300px;
+}
+
+.navbar-default{
+	border-bottom: 1px solid blue;
+}
+
+.navbar-default{
+	/*opacity: 0.6;*/
+}
+
+.navbar-nav.navbar-right{
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.navbar-nav{
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.btn-default{
+	background-color: #223b4f;
+	color: #ffffff;
+}
